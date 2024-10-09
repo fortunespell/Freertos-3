@@ -49,7 +49,7 @@ This project involves an embedded system application developed using the STM32F7
 ## Getting Started
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/stm32-freertos-project.git
+    git clone https://github.com/fortunespell/Freertos-3.git
     ```
 
 2. **Open the project** in STM32CubeIDE.
