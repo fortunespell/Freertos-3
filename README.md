@@ -44,6 +44,8 @@ This project involves an embedded system application developed using the STM32F7
   - SDA: PB9
 - **Button**: GPIOC Pin 13
 
+![image](https://github.com/user-attachments/assets/ffc0d4f7-e600-4d00-a56c-3ae97132387c)
+
 ## Getting Started
 1. **Clone the repository**:
     ```bash
