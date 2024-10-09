@@ -1,5 +1,15 @@
 # STM32F767ZI Project with FreeRTOS
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Key Functions](#key-functions)
+- [Hardware Requirements](#hardware-requirements)
+- [GPIO Pin Configuration](#gpio-pin-configuration)
+- [Getting Started](#getting-started)
+- [License](#license)
+
 ## Project Overview
 This project involves an embedded system application developed using the STM32F767 microcontroller and FreeRTOS. It includes tasks for controlling LEDs, interacting with an ultrasonic sensor, and using an I2C-based OLED display. The project is structured with multiple RTOS tasks for concurrent operations like blinking LEDs and measuring distance using the ultrasonic sensor.
 
